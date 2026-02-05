@@ -15,5 +15,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=NLEchap0&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=NLEchap0&theme=catppuccin_mocha&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NLEchap0&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![NLEchap0's GitHub stats](https://github-readme-stats.vercel.app/api?username=NLEchap0)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

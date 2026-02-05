@@ -1,7 +1,11 @@
-# Hi, I'm Bryan
-🎓 Information Technologist (Federal Diploma of Vocational Education and Training) student in Switzerland
-
-# 💫 About Me:
+# Hi, I'm Bryan, here are some things about me:
+🎓 Swiss student in Information Technology (Federal Diploma of Vocational Education and Training)
+🎓 Swiss student in Information Technology (Federal Diploma of Vocational Education and Training)
+🎓 Swiss student in Information Technology (Federal Diploma of Vocational Education and Training)
+🎓 Swiss student in Information Technology (Federal Diploma of Vocational Education and Training)
+🎓 Swiss student in Information Technology (Federal Diploma of Vocational Education and Training)
+🎓 Swiss student in Information Technology (Federal Diploma of Vocational Education and Training)
+🎓 Swiss student in Information Technology (Federal Diploma of Vocational Education and Training)
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 # 📌 Featured repos:

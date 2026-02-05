@@ -4,7 +4,7 @@
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
-# 📌 Featured repos:
+# 💫 Featured repos:
 ◽ MentalMood: a Flutter Project
 ◽ System-Breach-Five-Nights: a GameMaker Project
 

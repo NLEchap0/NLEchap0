@@ -1,12 +1,9 @@
 # Hi, I'm Bryan, here are some things about me:
-🎓 Swiss student in Information Technology (Federal Diploma of Vocational Education and Training)
-🎓 Swiss student in Information Technology (Federal Diploma of Vocational Education and Training)
-🎓 Swiss student in Information Technology (Federal Diploma of Vocational Education and Training)
-🎓 Swiss student in Information Technology (Federal Diploma of Vocational Education and Training)
-🎓 Swiss student in Information Technology (Federal Diploma of Vocational Education and Training)
-🎓 Swiss student in Information Technology (Federal Diploma of Vocational Education and Training)
-🎓 Swiss student in Information Technology (Federal Diploma of Vocational Education and Training)
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🎓 Information Technology (Federal Diploma of Vocational Education and Training) in Switzerland<br>
+⏳ 17 years old<br>
+📍 Switzerland<br>
+🇧🇷 Brazilian & 🇮🇹 Italian<br>
+🗣️ Italian, Portuguese (BR) & English -- Low-level knowledge in German and French<br>
 
 # 📌 Featured repos:
 ◽ <b>MentalMood:</b> a Flutter Project<br>◽ <b>System-Breach-Five-Nights:</b> a GameMaker Project

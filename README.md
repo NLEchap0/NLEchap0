@@ -1,9 +1,9 @@
 # Hi, I'm Bryan, here are some things about me:
-🎓 Studying Information Technology (Federal Diploma of Vocational Education and Training) at CPT Trevano in Switzerland<br>
+🎓 Studying: Information Technology (Federal Diploma of Vocational Education and Training) at CPT Trevano in Switzerland<br>
 ⏳ 17 years old<br>
 📍 Switzerland<br>
 🇧🇷 Brazilian & 🇮🇹 Italian<br>
-🗣️ Italian, Portuguese (BR) & English -- Low-level knowledge in German and French<br>
+🗣️ Languages: Italian, Portuguese (BR) & English<br>
 
 # 📌 Featured repos:
 ◽ <b>MentalMood:</b> a Flutter Project<br>◽ <b>System-Breach-Five-Nights:</b> a GameMaker Project

@@ -1,5 +1,5 @@
 # Hi, I'm Bryan, here are some things about me:
-🎓 Information Technology (Federal Diploma of Vocational Education and Training) in Switzerland<br>
+🎓 Studying Information Technology (Federal Diploma of Vocational Education and Training) at CPT Trevano in Switzerland<br>
 ⏳ 17 years old<br>
 📍 Switzerland<br>
 🇧🇷 Brazilian & 🇮🇹 Italian<br>

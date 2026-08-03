@@ -11,10 +11,6 @@ I am a passionate Information Technology student based in Switzerland, focused o
 * **🌍 Roots:** Brazilian 🇧🇷 & Italian 🇮🇹
 * **🗣️ Languages:** Italian (Native/Fluent), Portuguese (Fluent), English (Professional)
 
-## 📌 Main featured repos:
-* **MentalMood** - A mobile application for emotional tracking built with Flutter and Drift.
-* **System-Breach-Five-Nights** - A game inspired by "Five Nights At Freddy's" made with GameMakerLanguage.
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bryanlucaciaponi/)  [![WebSite](https://img.shields.io/badge/Website-ffffff)](https://webdevinnovations.ch)
 

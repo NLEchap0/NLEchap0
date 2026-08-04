@@ -8,10 +8,11 @@ I am a passionate Information Technology student based in Switzerland, focused o
 
 ## 👤 About Me
 * **🎓 Studying:** Information Technology (Federal Diploma of Vocational Education and Training) at **CPT Trevano** (Switzerland)
+* **💼 Administrating:** CEO of WebDev Innovations [![WebSite](https://img.shields.io/badge/Website-ffffff)](https://webdevinnovations.ch)
 * **🌍 Roots:** Brazilian 🇧🇷 & Italian 🇮🇹
 * **🗣️ Languages:** Italian (Native/Fluent), Portuguese (Fluent), English (Professional)
 
-## 🌐 Socials:
+## 🌐 Links:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bryanlucaciaponi/)  [![WebSite](https://img.shields.io/badge/Website-ffffff)](https://webdevinnovations.ch)
 
 ## 💻 Tech Stack:

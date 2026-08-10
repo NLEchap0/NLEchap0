@@ -8,7 +8,7 @@ I am a passionate Information Technology student based in Switzerland, focused o
 
 ## 👤 About Me
 * **🎓 Studying:** Information Technology (Federal Diploma of Vocational Education and Training) at **CPT Trevano** (Switzerland)
-* **💼 Administrating:** Founder & CEO of WebDev Innovations
+* **💼 Administrating:** Founder & CEO at WebDev Innovations
 * **🌍 Roots:** Brazilian 🇧🇷 & Italian 🇮🇹
 * **🗣️ Languages:** Italian (Native/Fluent), Portuguese (Fluent), English (Professional)
 

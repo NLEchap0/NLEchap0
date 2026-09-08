@@ -1,6 +1,6 @@
 [![](https://komarev.com/ghpvc/?username=NLEchap0&icon=5&color=green)](https://visitcount.itsvg.in)
 
-# Hi, I'm Bryan Luca 👋
+# Hey! I'm Bryan 👋
 
 I am a passionate Information Technology student based in Switzerland, focused on building robust web applications, mobile software, and exploring cybersecurity.
 

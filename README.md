@@ -2,7 +2,7 @@
 
 # Hey! I'm Bryan 👋
 
-I am a passionate Information Technology student based in Switzerland, focused on building robust web applications, mobile software, and exploring cybersecurity.
+I am a passionate Information Technology student based in Switzerland, focused on developing videogames, building robust web applications, mobile software, and exploring cybersecurity.
 
 ---
 
